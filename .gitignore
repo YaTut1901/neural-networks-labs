@@ -1,0 +1,7 @@
+# Large datasets (keep locally; do not commit)
+lab 2/train.csv
+lab 2/test.csv
+lab 1/bitcoin-hourly-technical-indicators.csv
+
+# Model checkpoints / exports
+*.keras
